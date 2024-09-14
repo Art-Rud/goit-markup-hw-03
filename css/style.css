@@ -207,24 +207,26 @@ h1 {
   text-align: center;
   text-transform: capitalize;
 }
+.team-section .sub-tittle {
+  margin-bottom: 78px;
+}
 
 .team {
   display: flex;
   gap: 24px;
   flex-wrap: nowrap;
-  padding-top: 72px;
 }
 .memeber-container {
-  border-radius: 0 0 4px 4px;
   padding-top: 32px;
   padding-bottom: 32px;
 }
-
-.memeber-position {
-  margin-top: 8px;
+.member-tittle {
+  margin-bottom: 8px;
 }
+
 .members {
   background: #fff;
+  border-radius: 0 0 4px 4px;
 }
 .portfolio {
   display: flex;
