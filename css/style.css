@@ -87,7 +87,6 @@ header .container {
 .page-nav {
   display: flex;
   align-items: center;
-  gap: 76px;
   justify-content: flex-start;
 }
 .menu {
@@ -109,6 +108,7 @@ header .container {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  margin-right: 76px;
 }
 
 .header-logo .part-logo {
